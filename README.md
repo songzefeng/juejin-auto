@@ -1,4 +1,4 @@
-# juejin-auto-mining
+# juejin-auto-mining恩
 本项目使用`Github Action`来部署自动签到程序和自动挖矿，无需自己购买服务器，安全可靠且方便。hjt
 
 ## 使用方式
